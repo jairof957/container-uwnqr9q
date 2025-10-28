@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jairof957",
+  "repo": "container-uwnqr9q",
+  "name": "jairof957",
+  "email": "garciapanchito64@gmail.com",
+}
