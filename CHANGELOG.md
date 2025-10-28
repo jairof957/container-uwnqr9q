@@ -1,3 +1,15 @@
+# v0.0.2 (Tue Oct 28 2025)
+
+#### ⚠️ Pushed to `main`
+
+- Add files via upload ([@jairof957](https://github.com/jairof957))
+
+#### Authors: 1
+
+- [@jairof957](https://github.com/jairof957)
+
+---
+
 # v0.0.1 (Tue Oct 28 2025)
 
 :tada: This release contains work from a new contributor! :tada:
